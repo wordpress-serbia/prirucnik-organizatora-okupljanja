@@ -1,2 +1,3 @@
-# prirucnik-organizatora-okupljanja
-Priručnik za organizatore okupljanja srpske WordPress zajednice.
+# Приручник организатора окупљања
+
+Приручник за организаторе окупљања српске Вордпрес заједнице. Превод [глобалног приручника](https://make.wordpress.org/community/handbook/meetup-organizer/), прилагођен потребама српске заједнице.
